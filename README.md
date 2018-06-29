@@ -27,3 +27,9 @@ With PP, you face players of widely varying skill levels: the bottom 1 seed coul
 
 With NoPP, the bottom large division will have players closer together in skill level.
 
+### Time constraints
+Placement Pools is in addition to the regular divisions, and so requires more matches. One argument holds that removing PP would create a lot of time for additional side events.
+
+### Handling DQs and No shows
+
+### Floating players vs earning your seed
