@@ -22,11 +22,12 @@ As an example, **Super Smash Con 2017**
 * Used placement pools and 3 divisions, with cut to top 32 for bracket.
 * Placement pools and divisions were all round robin.
 * Placement pools had size 5-6
+* Players finishing in the bottom of PPs were placed into a separate "Amateur Bracket".
 * Div 3 pools were size 6
 * Div 2 and Div 1 pools were size 5.
 
 This brings up one more point of flexibility:
-* TOs can use a preliminary round of pools (called Placement Pools, or "PP" ) and use the results of PPs to sift players into the divisions based on PP results.
+* TOs can use a preliminary round of pools (called Placement Pools, or "PP" ) and use the results of PPs to sift players into the divisions based on PP results, or even place some players into a separate Amateur Bracket (though this has been uncommon in 64 events so far.)
 * Or, TOs can simply seed players directly into divisions (this format is called NoPP).
 
 People in the community have been debating pros and cons of this choice for a while now, so I wanted to collect some of the main arguments in one place.
