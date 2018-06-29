@@ -7,10 +7,10 @@ PP and NoPP are variants of the "WaterFall Tournament Format" (WTF). There have 
 There is a lot of flexibility to the WTF tournament, so I'll start with a basic outline before getting into detail.
 
 1. A waterfall tournament consists of several divisions, and each division has a bunch of pools of players.
-2. The idea of waterfall is that the lowest division of pools all compete, and then the some number of the highest finishing players in each pool advance to the next highest division. The other players are knocked out.
+2. The idea of waterfall is that the lowest division of pools all compete, then some number of the highest finishing players in each pool advance to the next highest division.
 3. This continues until the final division (Division 1), where the advancing players get put into a bracket.
 
-That's the whole idea. Here are the flexible details:
+That's the basic idea. Here are the flexible details:
 
 * the number of divisions and the size of pools in divisions can vary; 64 events have had pools of size between 4 and 8, with anywhere between 3 and 5 divisions, but this could change.
 * the format of pool play can be whatever the TO wants; most 64 events have used round robin pools.
