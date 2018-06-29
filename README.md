@@ -3,24 +3,46 @@
 PP and NoPP are variants of the "WaterFall Tournament Format" (WTF). There have been debates about this all over twitter, facebook, and elsewhere for a year or so. This is an attempt at an objective summary of the points people are making.
 
 ## Overview of WTF
-WTF consists of several divisions (3-5 depending on attendance). Each division has round robin pools, and the top finishers of each pool advance to the next level of divisions.
 
-1. Each division consists of pools of size ~4-5. Pools are round robin.
-2. The lowest division (Div 5) starts first. The top 2 finishers from each pool advance to Div 4, and the rest of the players are knocked out of the tournament.
-3. The rest of the divisions continue in the same way: pools of size ~4-5, round robin, top 2 finishers from each pool advance to the next division.
-4. This continues until Div 1. The top 2 finishers in each Div 1 pool advance to bracket. (Bracket size depends on number of attendees. As an example, SSC 2017 (256 players) cut to top 32 while Boss Battle 3 (113 players) cut to top 8.)
+There is a lot of flexibility to the WTF tournament, so I'll start with a basic outline before getting into detail.
 
-### PP
-TOs seed players into "Placement Pools": round robin pools of size ~5-7. After PPs are over, all players are placed in a division based on their performance in PP. The rest of the tournament proceeds as described above.
+1. A waterfall tournament consists of several divisions, and each division has a bunch of pools of players.
+2. The idea of waterfall is that the lowest division of pools all compete, and then the some number of the highest finishing players in each pool advance to the next highest division. The other players are knocked out.
+3. This continues until the final division (Division 1), where the advancing players get put into a bracket.
 
-### NoPP
-Instead, the TOs seed players directly into the different divisions.
-Importantly, the divisions in NoPP are different from PP: the lower divisions are bigger, guaranteeing all players the same minimum number of matches in the tournament, regardless of skill level.
+That's the whole idea. Here are the flexible details:
 
-## Differences between PP and NoPP
+* the number of divisions and the size of pools in divisions can vary; 64 events have had pools of size between 4 and 8, with anywhere between 3 and 5 divisions, but this could change.
+* the format of pool play can be whatever the TO wants; most 64 events have used round robin pools.
+* pools can have any number of the top finishing players advance; most 64 events have had the top 2 finishers of each pool advance.
+* the format and size of the final bracket are flexible; 64 events have all (I think) been double elimination, with sizes ranging from top 32 to top 8.
+
+As an example, **Super Smash Con 2017**
+* 256 players
+* Used placement pools and 3 divisions, with cut to top 32 for bracket.
+* Placement pools and divisions were all round robin.
+* Placement pools had size 5-6
+* Div 3 pools were size 6
+* Div 2 and Div 1 pools were size 5.
+
+This brings up one more point of flexibility:
+* TOs can use a preliminary round of pools (called Placement Pools, or "PP" ) and use the results of PPs to sift players into the divisions based on PP results.
+* Or, TOs can simply seed players directly into divisions (this format is called NoPP).
+
+People in the community have been debating pros and cons of this choice for a while now, so I wanted to collect some of the main arguments in one place.
+
+In my opinion you should not think of this as "there is one right answer" and instead consider that there are actual pros and cons to each, and one format could be better suited to some circumstances than the other format.
+
+As an example, if you have a tournament where basically all players have unknown skill level, then seeding players directly into divisions would be impossible to do accurately, so Placement Pools would be better suited, in my opinion.
+On the other hand, if your event is very short on time and you have pretty good seeding information on almost all the players, then NoPP would be better-suited because PPs take a lot of time, and if you have great seeding info, you could reasonably accurately seed players directly into the divisions that PPs would determine anyway.
+
+With that said, here are some of the trade-offs people have argued about in the past.
+
+## Trade-offs between PP and NoPP
 
 ### Minimum number of matches each player gets
-In PP, a player who loses every match would get roughly 11 matches: ~5-7 in PP and ~4-5 in bottom division before being knocked out of the tournament. In NoPP, the bottom division would have pools of 9-12 players.
+In a standard PP tournament of large size (like SSC, Keystoned, LetsGo, or Boss Battle), a player who loses every match would get roughly 9-12 matches: ~5-7 in PP and ~4-6 in bottom division before being knocked out of the tournament.
+In NoPP, the bottom division would have pools of 9-12 players.
 
 ### Skill level of your opponents
 With PP, you face players of widely varying skill levels: the bottom 1 seed could be a Melee or Smash 4 player who is there for fun, and the top 1 seed will probably be a world class player. It is likely that only the 2-3 players closest to your seed in the pool will be close matches: the others will crush you or be crushed by you.
